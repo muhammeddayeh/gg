@@ -1,4 +1,3 @@
-function click(){
 
-    document.write("Why you clicked the button???");
-}
+
+    document.write("<h1>Why you clicked the button???</h1>");
